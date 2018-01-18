@@ -16,4 +16,4 @@ The training part for this project is shown in the video below:
 
 [![Training Video](https://img.youtube.com/vi/ntG4DoASPxo/0.jpg)](https://www.youtube.com/watch?v=ntG4DoASPxo)
 
-**NOTE:** The current average speed of car using this code is **70.53 mph.** Still working on improving the score further.
+**NOTE:** The current average speed of car using this code is **69.53 mph.** Still working on improving the score further.
