@@ -1,5 +1,5 @@
 // First Code
-// Speed: 69.53mph
+// Speed: 69.87mph
 
 lanesSide = 5;
 patchesAhead = 10;
